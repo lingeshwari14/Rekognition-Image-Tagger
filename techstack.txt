@@ -1,0 +1,11 @@
+Prerequisites:
+
+AWS account
+IAM user with Rekognition and S3 full access
+AWS CLI configured
+
+AWS Rekognition – Label detection
+AWS S3 – Image storage
+IAM – Access control
+Python (boto3) – AWS integration
+Pillow – Image processing
